@@ -28,7 +28,7 @@ body {
 footer {
     position: absolute;
     width: 100%;
-    background: #fff;
+    background: rgb(43, 43, 43);
 }
 
 #background-canvas {
